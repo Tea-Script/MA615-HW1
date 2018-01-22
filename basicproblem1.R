@@ -1,4 +1,3 @@
-#Sys.setenv(RSTUDIO_PANDOC="/usr/lib/rstudio/bin/pandoc")
 
 #Question 1
 1:20 #a
