@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516650211151.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3A548FC8",
+    "lastKnownWriteTime" : 1516652922,
+    "last_content_update" : 1516653432394,
+    "path" : "~/ma615/hw1/basicproblem1.R",
+    "project_path" : "basicproblem1.R",
+    "properties" : {
+        "cursorPosition" : "9,12",
+        "notebook_format" : "pdf_document",
+        "scrollLine" : "65"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
